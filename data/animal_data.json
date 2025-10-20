@@ -1,0 +1,104 @@
+{
+  "knowledge_base": {
+    "name": "Animal Kingdom Facts",
+    "description": "A collection of facts about various animals.",
+    "entries": [
+      {
+        "title": "Lion",
+        "category": "Mammal",
+        "habitat": "Savanna",
+        "diet": "Carnivore",
+        "facts": [
+          "Lions are large, carnivorous felines native to Africa and India.",
+          "They live in groups called prides, typically consisting of related females, their offspring, and a small number of adult males.",
+          "Male lions are known for their distinctive manes."
+        ],
+        "related_animals": ["Tiger", "Leopard"]
+      },
+      {
+        "title": "Penguin",
+        "category": "Bird",
+        "habitat": "Antarctica, Southern Hemisphere coasts",
+        "diet": "Carnivore (fish, krill)",
+        "facts": [
+          "Penguins are flightless birds that live primarily in the Southern Hemisphere.",
+          "They are excellent swimmers and use their wings as flippers.",
+          "Most penguins have a countershaded plumage of black and white."
+        ],
+        "related_animals": ["Albatross", "Seal"]
+      },
+      {
+        "title": "Dolphin",
+        "category": "Mammal",
+        "habitat": "Oceans worldwide",
+        "diet": "Carnivore (fish, squid)",
+        "facts": [
+          "Dolphins are highly intelligent marine mammals.",
+          "They are known for their playful behavior and complex social structures.",
+          "Dolphins use echolocation to navigate and hunt."
+        ],
+        "related_animals": ["Whale", "Porpoise"]
+      },
+      {
+        "title": "Whale",
+        "category": "Mammal",
+        "habitat": "Oceans worldwide",
+        "diet": "Carnivore (krill, fish, plankton)",
+        "facts": [
+          "Whales are the largest mammals on Earth and are fully aquatic.",
+          "They are divided into two main groups: baleen whales and toothed whales.",
+          "Many species undertake long migrations each year."
+        ],
+        "related_animals": ["Dolphin", "Porpoise"]
+      },
+      {
+        "title": "Porpoise",
+        "category": "Mammal",
+        "habitat": "Coastal waters, rivers",
+        "diet": "Carnivore (fish, squid)",
+        "facts": [
+          "Porpoises are small, toothed whales closely related to dolphins.",
+          "They are generally smaller and have a more robust body shape than dolphins.",
+          "Porpoises have spade-shaped teeth, unlike the conical teeth of dolphins."
+        ],
+        "related_animals": ["Dolphin", "Whale"]
+      },
+      {
+        "title": "Seal",
+        "category": "Mammal",
+        "habitat": "Coastal waters, polar regions",
+        "diet": "Carnivore (fish, squid, crustaceans)",
+        "facts": [
+          "Seals are fin-footed marine mammals.",
+          "They are well-adapted to aquatic life, with streamlined bodies and flippers.",
+          "Many seal species spend time both in water and on land or ice."
+        ],
+        "related_animals": ["Penguin", "Walrus"]
+      },
+      {
+        "title": "Leopard",
+        "category": "Mammal",
+        "habitat": "Africa, Asia",
+        "diet": "Carnivore",
+        "facts": [
+          "Leopards are powerful big cats known for their distinctive spotted coats.",
+          "They are solitary and nocturnal hunters.",
+          "Leopards are excellent climbers and often store their prey in trees."
+        ],
+        "related_animals": ["Lion", "Tiger"]
+      },
+      {
+        "title": "Tiger",
+        "category": "Mammal",
+        "habitat": "Forests, grasslands",
+        "diet": "Carnivore",
+        "facts": [
+          "Tigers are the largest of all big cats, known for their striped coats.",
+          "They are solitary hunters and apex predators.",
+          "Each tiger's stripe pattern is unique, like human fingerprints."
+        ],
+        "related_animals": ["Lion", "Leopard"]
+      }
+    ]
+  }
+}

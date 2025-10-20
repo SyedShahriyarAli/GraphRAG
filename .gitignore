@@ -1,0 +1,5 @@
+/.env
+/.venv
+/.vscode
+/neo4j
+/__pycache__

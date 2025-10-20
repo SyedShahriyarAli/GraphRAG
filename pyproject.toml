@@ -1,0 +1,15 @@
+[project]
+name = "graph_rag"
+version = "0.1.0"
+description = "A Graph-based Retrieval Augmented Generation (RAG) system leveraging Neo4j."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "flask>=3.1.2",
+    "flask-cors>=6.0.1",
+    "neo4j>=6.0.2",
+    "numpy>=2.3.3",
+    "pdfplumber>=0.11.7",
+    "sentence-transformers>=5.1.1",
+]
