@@ -121,4 +121,4 @@ The project utilizes the `animal_data.json` file as its primary dataset. This JS
 
 Here's a conceptual diagram illustrating the relationships within the Neo4j graph database:
 
-![Graph Database Relations Placeholder](data/graph_rag.png.png)
+![Graph Database Relations Placeholder](data/graph_rag.png)
